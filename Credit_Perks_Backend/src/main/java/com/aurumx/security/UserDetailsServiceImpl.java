@@ -1,6 +1,5 @@
 package com.aurumx.security;
 
-import com.aurumx.repository.CesUserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.User;
