@@ -3,7 +3,6 @@ package com.aurumx.controller;
 import com.aurumx.dto.request.AddToCartRequest;
 import com.aurumx.dto.response.CartResponse;
 import com.aurumx.dto.response.RedemptionResponse;
-import com.aurumx.entity.CartItem;
 import com.aurumx.entity.RedemptionHistory;
 import com.aurumx.service.CartService;
 import jakarta.validation.Valid;
